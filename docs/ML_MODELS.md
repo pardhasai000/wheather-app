@@ -1,6 +1,6 @@
 # ML Models
 
-Cozzy Wheather includes two lightweight ML-style models implemented directly in Python. They are designed for a working prototype and do not require external ML packages.
+Mighty Wheather includes two lightweight ML-style models implemented directly in Python. They are designed for a working prototype and do not require external ML packages.
 
 ## TinyWeatherNet v1
 

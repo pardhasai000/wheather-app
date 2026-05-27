@@ -1,4 +1,4 @@
-# Cozzy Wheather Prototype
+# Mighty Wheather Prototype
 
 ## Run The App
 
@@ -16,7 +16,7 @@ http://127.0.0.1:8765
 
 ## What The App Does
 
-Cozzy Wheather is a browser-based weather app powered by a Python backend. It searches places, fetches live weather, displays current conditions and forecasts, and adds AI-style analysis.
+Mighty Wheather is a browser-based weather app powered by a Python backend. It searches places, fetches live weather, displays current conditions and forecasts, and adds AI-style analysis.
 
 The app uses Open-Meteo for live weather and geocoding. No weather API key is required.
 

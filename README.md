@@ -1,6 +1,6 @@
-# Cozzy Wheather
+# Mighty Wheather
 
-Cozzy Wheather is a working Python weather web app prototype. It lets users search for a place, get live weather data, see an animated forecast dashboard, and receive an AI-style weather summary.
+Mighty Wheather is a working Python weather web app prototype. It lets users search for a place, get live weather data, see an animated forecast dashboard, and receive an AI-style weather summary.
 
 The project uses live weather and geocoding data from Open-Meteo. It also includes two small ML-style models built in Python:
 

@@ -1,6 +1,6 @@
 # API Reference
 
-Cozzy Wheather runs a small Python HTTP server. The frontend calls local JSON APIs exposed by `weather_app.py`.
+Mighty Wheather runs a small Python HTTP server. The frontend calls local JSON APIs exposed by `weather_app.py`.
 
 Base URL when running locally:
 
